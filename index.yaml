@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cluster-chronicles:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-05-22T13:49:55.570333+01:00"
+    description: Kubernetes troubleshooting classroom game (Helix-9 recovery)
+    digest: 9185068fc5794f63ee94e791c571ccd8b8975118df354838283aadc749e29974
+    name: cluster-chronicles
+    type: application
+    urls:
+    - https://a00335683.github.io/HELIX-9/cluster-chronicles-1.0.0.tgz
+    version: 1.0.0
+generated: "2026-05-22T13:49:55.568053+01:00"
