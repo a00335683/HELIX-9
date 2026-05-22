@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   cluster-chronicles:
   - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2026-05-22T15:04:58.44742+01:00"
+    description: Kubernetes troubleshooting classroom game (Helix-9 recovery)
+    digest: d99b3d4f4bfc8a6bbef7031a9fef1ecf97fde1b61ca6cfd1b54cade49a25c596
+    name: cluster-chronicles
+    type: application
+    urls:
+    - https://a00335683.github.io/HELIX-9/cluster-chronicles-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-05-22T14:36:29.575959+01:00"
+    created: "2026-05-22T15:04:58.447008+01:00"
     description: Kubernetes troubleshooting classroom game (Helix-9 recovery)
     digest: 78c3c50e21c3dd2a471e954d5ab203530f31b00af683c15f0074910faf67dcd1
     name: cluster-chronicles
@@ -13,7 +23,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-05-22T14:36:29.575122+01:00"
+    created: "2026-05-22T15:04:58.445985+01:00"
     description: Kubernetes troubleshooting classroom game (Helix-9 recovery)
     digest: 9185068fc5794f63ee94e791c571ccd8b8975118df354838283aadc749e29974
     name: cluster-chronicles
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://a00335683.github.io/HELIX-9/cluster-chronicles-1.0.0.tgz
     version: 1.0.0
-generated: "2026-05-22T14:36:29.572398+01:00"
+generated: "2026-05-22T15:04:58.443591+01:00"
